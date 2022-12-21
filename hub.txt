@@ -1,0 +1,6 @@
+hub HCMV
+shortLabel HCMV Datasets
+longLabel A selection of new and existing HCMV datasets aligned to FJ616285.1
+genomesFile genomes.txt
+email jeffery-meier@uiowa.edu
+descriptionUrl https://www.ncbi.nlm.nih.gov/nuccore/FJ616285.1
